@@ -3,6 +3,7 @@ names_list = ["biovore", "broodlord", "carnifex"]
 total_points = 0
 added_points = 0
 points_cost = 0
+#hhh
 
 def add (name,amount,weapon1,weapon2):
     if name == "biovore":
